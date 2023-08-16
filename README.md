@@ -14,6 +14,8 @@
 
 📊 My quest is to merge the knowledge of social sciences with the tools of the digital era. Here, you'll find projects that seek not only numbers but also social narratives. Eager to build bridges between these two worlds and discover innovative solutions.
 
+--------------------------------------------------
+
 👩‍💻 Linguagens (Languages): <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 
 ⚡ Banco de Dados (Database): <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
