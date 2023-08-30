@@ -4,15 +4,11 @@
 
 🎓 Inicialmente formado em Ciências Sociais, trilhei um caminho em pesquisa política, direitos humanos e tecnologia aplicada às OSCs. Atualmente, estou em uma empolgante jornada de transição para o mundo da Ciência de Dados. Combinando minha paixão pelas ciências sociais com as habilidades analíticas da tecnologia, estou explorando como dados podem desvendar insights profundos em questões sociais.
 
-📊 Minha busca é integrar o conhecimento das ciências sociais com as ferramentas da era digital. Aqui, você encontrará projetos que buscam não apenas números, mas também narrativas sociais. Ansioso para construir pontes entre esses dois mundos e encontrar soluções inovadoras.
-
 ### Hello! My name is Guilherme Sanner 👋
 
 🔬 Data Scientist | 🌐 Exploring the Intersection of Social Sciences and Technology
 
 🎓 Initially trained in Social Sciences, I embarked on a journey in political research, human rights, and technology applied to NGOs. Currently, I'm on an exciting transition to the world of Data Science. By blending my passion for social sciences with the analytical skills of technology, I'm delving into how data can unveil profound insights into social issues.
-
-📊 My quest is to merge the knowledge of social sciences with the tools of the digital era. Here, you'll find projects that seek not only numbers but also social narratives. Eager to build bridges between these two worlds and discover innovative solutions.
 
 --------------------------------------------------
 
