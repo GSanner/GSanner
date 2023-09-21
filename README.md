@@ -12,7 +12,7 @@
 
 --------------------------------------------------
 
-### Principais Projetos
+### Principais Projetos 🔬
 | Projeto | Descrição | Motivação |
 |-----------------------|-----------------------|-----------------------|
 | [Projeto de Aprendizado Supervisionado - Regressão](https://github.com/GSanner/Aprendizado_Supervisionado_REGRESSAO) | Projeto na área de saúde voltado para a previsão dos custos com planos de saúde com base nas características individuais do segurado | Projeto de estudo realizado em colaboração com a mentoria da Let's Data |
@@ -20,8 +20,8 @@
 | [Projeto de Aprendizado Não Supervisionado - Utilizando PCA e Clustering](https://github.com/GSanner/Aprendizado_Nao_Supervisionado_PCA_CLUSTERING) | Projeto de lançamento de um conceito de microcan, visando identificar o público-alvo ideal e iniciar as campanhas de marketing correspondentes | Projeto de estudo realizado em colaboração com a mentoria da Let's Data |
 | [Análise Exploratória de Dados (EDA)- ENEM 2019](https://github.com/GSanner/EDA_Enem2019) | Este projeto tem como objetivo avaliar as correlações entre dados demográficos, indicadores sociais, escolaridade dos pais e outras variáveis com as notas obtidas pelos candidatos no ENEM de 2019 | Projeto de estudo realizado em colaboração com a mentoria da Let's Data |
 
-### Principais Projetos
-[Meu Repositório](https://github.com/GSanner?tab=repositories)
+### Demais Projetos 🔬
+[Meu Repositório](https://github.com/GSanner?tab=repositories) 
 
 
 --------------------------------------------------
