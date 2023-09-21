@@ -12,6 +12,20 @@
 
 --------------------------------------------------
 
+### Principais Projetos
+| Projeto | Descrição | Motivação |
+|-----------------------|-----------------------|-----------------------|
+| [Projeto de Aprendizado Supervisionado - Regressão](https://github.com/GSanner/Aprendizado_Supervisionado_REGRESSAO) | Projeto na área de saúde voltado para a previsão dos custos com planos de saúde com base nas características individuais do segurado | Projeto de estudo realizado em colaboração com a mentoria da Let's Data |
+| [Projeto de Aprendizado Supervisionado - Classificação](https://github.com/GSanner/Aprendizado_Supervisionado_CLASSIFICACAO/tree/master)| Projeto na área de telecomunicações focado na criação de modelos de classificação para categorizar os clientes em "churn" (cancelamento) ou "não churn" (não cancelamento), ou seja, determinar se eles pretendem ou não cancelar os serviços da empresa | Projeto de estudo realizado em colaboração com a mentoria da Let's Data |
+| [Projeto de Aprendizado Não Supervisionado - Utilizando PCA e Clustering](https://github.com/GSanner/Aprendizado_Nao_Supervisionado_PCA_CLUSTERING) | Projeto de lançamento de um conceito de microcan, visando identificar o público-alvo ideal e iniciar as campanhas de marketing correspondentes | Projeto de estudo realizado em colaboração com a mentoria da Let's Data |
+| [Análise Exploratória de Dados (EDA)- ENEM 2019](https://github.com/GSanner/EDA_Enem2019) | Este projeto tem como objetivo avaliar as correlações entre dados demográficos, indicadores sociais, escolaridade dos pais e outras variáveis com as notas obtidas pelos candidatos no ENEM de 2019 | Projeto de estudo realizado em colaboração com a mentoria da Let's Data |
+
+### Principais Projetos
+[Meu Repositório](https://github.com/GSanner?tab=repositories)
+
+
+--------------------------------------------------
+
 👩‍💻 Linguagens (Languages): <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 
 ⚡ Banco de Dados (Database): <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
