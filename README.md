@@ -18,7 +18,10 @@
 
 🌐 ETL: <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
 
-📚 Educação (Education): UNESP; Let's Data; Anhembi Morumbi
+📚 Educação (Education):
+- UNESP: Bacharel e Licenciatura em Ciências Socias
+- Anhembi Morumbi: Tecnólogo em Análise e Desenvolvimento de Sistemas
+- Let's Data: Jornada Ciêntista de Dados
 
 👨 Redes Sociais: (Social): [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guilherme-sanner/) 
 
