@@ -21,7 +21,8 @@
 | [Análise Exploratória de Dados (EDA)- ENEM 2019](https://github.com/GSanner/EDA_Enem2019) | Este projeto tem como objetivo avaliar as correlações entre dados demográficos, indicadores sociais, escolaridade dos pais e outras variáveis com as notas obtidas pelos candidatos no ENEM de 2019 | Projeto de estudo realizado em colaboração com a mentoria da Let's Data |
 
 ### Demais Projetos 🔬
-[Meu Repositório](https://github.com/GSanner?tab=repositories) 
+| [Meu Repositório](https://github.com/GSanner?tab=repositories)  |
+| --- |
 
 
 --------------------------------------------------
