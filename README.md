@@ -4,15 +4,13 @@
 
 🎓 Inicialmente formado em Ciências Sociais, trilhei um caminho em pesquisa política, direitos humanos e tecnologia aplicada às OSCs. Atualmente, estou em uma empolgante jornada de transição para o mundo da Ciência de Dados. Combinando minha paixão pelas ciências sociais com as habilidades analíticas da tecnologia, estou explorando como dados podem desvendar insights profundos em questões sociais.
 
-### Hello! My name is Guilherme Sanner 👋
-
-🔬 Data Scientist | 🌐 Exploring the Intersection of Social Sciences and Technology
-
-🎓 Initially trained in Social Sciences, I embarked on a journey in political research, human rights, and technology applied to NGOs. Currently, I'm on an exciting transition to the world of Data Science. By blending my passion for social sciences with the analytical skills of technology, I'm delving into how data can unveil profound insights into social issues.
-
 --------------------------------------------------
+### Projetos Pessoais 🔬
+| Projeto | Descrição | Motivação |
+|-----------------------|-----------------------|-----------------------|
+| [Análise Exploratória dos Microdados do ENEM 2022 sobre Educação e Demografia no Brasil](https://github.com/GSanner/EDA__ENEM_2022/tree/master) | Esta análise se propõe a investigar possíveis associações entre dados demográficos, indicadores sociais e o nível de escolaridade dos pais com as notas alcançadas pelos candidatos. A análise exploratória de dados nos fornecerá valiosas percepções. | Projeto Pessoal para de Análise de Dados |
 
-### Principais Projetos 🔬
+### Projetos de Estudo 🔬
 | Projeto | Descrição | Motivação |
 |-----------------------|-----------------------|-----------------------|
 | [Projeto de Aprendizado Supervisionado - Regressão](https://github.com/GSanner/Aprendizado_Supervisionado_REGRESSAO) | Projeto na área de saúde voltado para a previsão dos custos com planos de saúde com base nas características individuais do segurado | Projeto de estudo realizado em colaboração com a mentoria da Let's Data |
@@ -24,23 +22,14 @@
 | [Meu Repositório](https://github.com/GSanner?tab=repositories)  |
 | --- |
 
-
 --------------------------------------------------
 
-👩‍💻 Linguagens (Languages): <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+👩‍💻<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 
-⚡ Banco de Dados (Database): <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-
-🌐 ETL: <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
+👨[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@sannercel) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guilherme-sanner/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sannercel@gmail.com?subject=&body=) [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5519999274661)
 
 📚 Educação (Education):
 - UNESP: Bacharel e Licenciatura em Ciências Socias
-- Anhembi Morumbi: Tecnólogo em Análise e Desenvolvimento de Sistemas
+- Anhembi Morumbi: Análise e Desenvolvimento de Sistemas
 - Let's Data: Jornada Ciêntista de Dados
-
-👨 Redes Sociais: (Social): [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guilherme-sanner/) 
-
-📱 Contato (Contact): [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sannercel@gmail.com?subject=&body=) [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5519999274661)
-
-
 
