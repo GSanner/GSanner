@@ -9,6 +9,7 @@
 | Projeto | Descrição | Motivação |
 |-----------------------|-----------------------|-----------------------|
 | [Análise Exploratória dos Microdados do ENEM 2022 sobre Educação e Demografia no Brasil](https://github.com/GSanner/EDA__ENEM_2022/tree/master) | Esta análise se propõe a investigar possíveis associações entre dados demográficos, indicadores sociais e o nível de escolaridade dos pais com as notas alcançadas pelos candidatos. A análise exploratória de dados nos fornecerá valiosas percepções. | Projeto Pessoal para de Análise de Dados |
+| [Desafio Indicium Lighthouse](https://github.com/GSanner/Desafio_Indicium_Lighthouse/tree/master) | Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (EDA), abordando hipóteses e questões de negócios, além de desenvolver um modelo preditivo | Projeto Pessoal feito a partir do desafio de Ciência de Dados (Lighthouse) da [Indicium](https://indicium.tech/) | 
 
 ### Projetos de Estudo 🔬
 | Projeto | Descrição | Motivação |
