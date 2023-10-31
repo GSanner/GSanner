@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Guilherme Sanner 👋
 
-🔬 Cientista de Dados | 🌐 Explorando a Conexão entre Ciências Sociais e Tecnologia
+🔬 Analista e Cientista de Dados | 🌐 Explorando a Conexão entre Ciências Sociais e Tecnologia
 
 🎓 Inicialmente formado em Ciências Sociais, trilhei um caminho em pesquisa política, direitos humanos e tecnologia aplicada às OSCs. Atualmente, estou em uma empolgante jornada de transição para o mundo da Ciência de Dados. Combinando minha paixão pelas ciências sociais com as habilidades analíticas da tecnologia, estou explorando como dados podem desvendar insights profundos em questões sociais.
 
