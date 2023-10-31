@@ -4,6 +4,8 @@
 
 🎓 Inicialmente formado em Ciências Sociais, trilhei um caminho em pesquisa política, direitos humanos e tecnologia aplicada às OSCs. Atualmente, estou em uma empolgante jornada de transição para o mundo da Ciência de Dados. Combinando minha paixão pelas ciências sociais com as habilidades analíticas da tecnologia, estou explorando como dados podem desvendar insights profundos em questões sociais.
 
+Conheça meu site: [Portfólio Guilherme Sanner](https://www.sanner.tech/)
+
 --------------------------------------------------
 ### Projetos Pessoais 🔬
 | Projeto | Descrição | Motivação |
