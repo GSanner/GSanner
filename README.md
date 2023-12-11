@@ -2,7 +2,7 @@
 
 🔬 Analista e Cientista de Dados | 🌐 Explorando a Conexão entre Ciências Sociais e Tecnologia
 
-🎓 Inicialmente formado em Ciências Sociais, trilhei um caminho em pesquisa política, direitos humanos e tecnologia aplicada às OSCs. Atualmente, estou em uma empolgante jornada de transição para o mundo da Ciência de Dados. Combinando minha paixão pelas ciências sociais com as habilidades analíticas da tecnologia, estou explorando como dados podem desvendar insights profundos em questões sociais.
+🎓 Analista de dados e BI, apaixonado por resolver problemas sociais complexos com dados e tecnologia. Com anos de experiência como pesquisador e cientista social, desenvolvi habilidades de pesquisa, análise crítica, estatística e comunicação. Desenvolvo soluções em Python, SQL, Excel e Power BI, com metodologias ágeis. Especialista em captação de recursos e gestão de projetos no Terceiro Setor. Busco uma oportunidade de aplicar as minhas habilidades de análise de dados em uma empresa que valoriza a inovação e o impacto social..
 
 Conheça meu site: [Portfólio Guilherme Sanner](https://www.sanner.tech/)
 
@@ -41,8 +41,5 @@ Conheça meu site: [Portfólio Guilherme Sanner](https://www.sanner.tech/)
 
 👨[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@sannercel) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guilherme-sanner/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sannercel@gmail.com?subject=&body=) [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5519999274661)
 
-📚 Educação (Education):
-- UNESP: Bacharel e Licenciatura em Ciências Socias
-- Anhembi Morumbi: Análise e Desenvolvimento de Sistemas
-- Let's Data: Jornada Ciêntista de Dados
+📚 Conheça meu site: [Portfólio Guilherme Sanner](https://www.sanner.tech/)
 
